@@ -111,7 +111,3 @@ Fluxo:
 - Maria Fernanda Vieira de Camargo: rm97956
 - Pedro Lucas de Andrade Nunes: rm550366
 - Sofia Amorim Coutinho: rm552534
-
-Features geométricas capturam configuração facial instantânea;
-
-Features temporais capturam dinâmica e microexpressões.

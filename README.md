@@ -1,5 +1,7 @@
 # Finix
 
+https://youtu.be/5flql9_1OD4
+
 Finix é uma aplicação mobile educativa que ensina, na prática, as diferenças e consequências entre investir e apostar. Voltada para crianças e jovens, combina minijogos rápidos, mecânica de pontos/estrelas e recompensas in‑game para promover alfabetização financeira por meio de decisões simuladas.
 
 ---
